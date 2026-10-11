@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.png binary
+*.woff2 binary
+# Preserve byte hashes of retained legal texts and publisher template assets.
+public/third-party/** -text
+public/fonts/OFL-Inter.txt -text
+src/assets/react.svg -text
+src/assets/vite.svg -text

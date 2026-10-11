@@ -1,0 +1,33 @@
+name: Bug report
+description: Report a reproducible application problem
+body:
+  - type: markdown
+    attributes:
+      value: Use invented QR content. Report vulnerabilities privately through Security, and remove passwords or personal data from attachments.
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Browser/version, operating system, and app version or commit
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Include a minimal example using synthetic data.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: Add sanitized error messages or screenshots if helpful.
+    validations:
+      required: true

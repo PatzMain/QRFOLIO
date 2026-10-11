@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "categories": [
+    { "id": "synthetic-demo", "name": "Synthetic Demo", "icon": "Folder", "color": "#6C5CE7", "order": 0, "createdAt": "2026-10-04T00:00:00.000Z" }
+  ],
+  "qrcodes": [
+    {
+      "id": "synthetic-text", "title": "Demo Text", "type": "text", "content": "Synthetic demo only", "metadata": { "text": "Synthetic demo only" }, "categoryId": "synthetic-demo", "isFavorite": true,
+      "style": { "foregroundColor": "#6C5CE7", "backgroundColor": "#FFFFFF", "dotsStyle": "square", "cornersSquareStyle": "square", "cornersDotStyle": "square", "errorCorrectionLevel": "M", "size": 300, "margin": 4 },
+      "createdAt": "2026-10-04T00:00:00.000Z", "updatedAt": "2026-10-04T00:00:00.000Z"
+    },
+    {
+      "id": "synthetic-link", "title": "Example Link", "type": "url", "content": "https://example.com", "metadata": { "url": "https://example.com" }, "categoryId": "synthetic-demo", "isFavorite": false,
+      "style": { "foregroundColor": "#6C5CE7", "backgroundColor": "#FFFFFF", "dotsStyle": "square", "cornersSquareStyle": "square", "cornersDotStyle": "square", "errorCorrectionLevel": "M", "size": 300, "margin": 4 },
+      "createdAt": "2026-10-04T00:00:00.000Z", "updatedAt": "2026-10-04T00:00:00.000Z"
+    },
+    {
+      "id": "synthetic-wifi", "title": "Invented Wi-Fi", "type": "wifi", "content": "WIFI:S:Demo\\;Network;T:WPA;P:demo-only-password;;", "metadata": { "ssid": "Demo;Network", "encryption": "WPA", "password": "demo-only-password", "hidden": "false" }, "categoryId": "synthetic-demo", "isFavorite": false,
+      "style": { "foregroundColor": "#6C5CE7", "backgroundColor": "#FFFFFF", "dotsStyle": "square", "cornersSquareStyle": "square", "cornersDotStyle": "square", "errorCorrectionLevel": "M", "size": 300, "margin": 4 },
+      "createdAt": "2026-10-04T00:00:00.000Z", "updatedAt": "2026-10-04T00:00:00.000Z"
+    }
+  ],
+  "settings": { "id": "app-settings", "defaultStyle": { "foregroundColor": "#6C5CE7", "backgroundColor": "#FFFFFF", "dotsStyle": "square", "cornersSquareStyle": "square", "cornersDotStyle": "square", "errorCorrectionLevel": "M", "size": 300, "margin": 4 }, "defaultCategoryId": "synthetic-demo", "exportFormat": "json", "hapticFeedback": false, "reducedMotion": true }
+}

@@ -1,0 +1,583 @@
+{
+  "schema": 1,
+  "packageLockSha256": "11884b063aab61056127daf70285737db5ea044576423aa1135df960aaed1a0c",
+  "scope": "Installed production dependency closure plus runtime/generated service-worker JavaScript modules identified by an isolated source-map build. Build-only tools not shipped in browser output are outside this inventory.",
+  "packages": [
+    {
+      "name": "@fontsource/inter",
+      "version": "5.2.8",
+      "declaredLicense": "OFL-1.1",
+      "integrity": "sha512-P6r5WnJoKiNVV+zvW2xM13gNdFhAEpQ9dQJHt3naLvfg+LkF2ldgSLiF4T41lf1SQCM9QmkqPTn4TH568IRagg==",
+      "scope": "Conservative installed production dependency closure",
+      "texts": [
+        {
+          "path": "node_modules/@fontsource/inter/LICENSE",
+          "sha256": "3b0a5fca3d17942cde889069889dedbbbd075e9b599968c82a95f4d944e9b345",
+          "bytes": 4477
+        }
+      ]
+    },
+    {
+      "name": "cookie",
+      "version": "1.1.1",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-ei8Aos7ja0weRpFzJnEA9UHJ/7XQmqglbRwnf2ATjcB9Wq874VKH9kfjjirM6UhU2/E5fFYadylyhFldcqSidQ==",
+      "scope": "Conservative installed production dependency closure",
+      "texts": [
+        {
+          "path": "node_modules/cookie/LICENSE",
+          "sha256": "c02110eedc16c7114f1a9bdc026c65626ce1d9c7e27fd51a8e0feee8a48a6858",
+          "bytes": 1175
+        }
+      ]
+    },
+    {
+      "name": "dexie",
+      "version": "4.4.4",
+      "declaredLicense": "Apache-2.0",
+      "integrity": "sha512-jIwsYI8Os2hgnqc6O49YwFDKGc5v5QjGx0wPVp543ip1F53VFAKMLthV2pQosQcVTv3eAskTWYspOx195PM0FQ==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/dexie/LICENSE",
+          "sha256": "cb5e8e7e5f4a3988e1063c142c60dc2df75605f4c46515e776e3aca6df976e14",
+          "bytes": 11325
+        },
+        {
+          "path": "node_modules/dexie/NOTICE",
+          "sha256": "6176d2e8a3fd8a881828a1a27bbcc5a9e03a75f437ce3c4ddbedd94fdac475c1",
+          "bytes": 575
+        }
+      ]
+    },
+    {
+      "name": "dexie-react-hooks",
+      "version": "4.4.0",
+      "declaredLicense": "Apache-2.0",
+      "integrity": "sha512-ObLXBS5+4BJU8vtSvBx6b9fY6zZYgniAtwxzjCHsUQadgbqYN6935X2/1TWw4Rf2N1aZV1io5/ziox4vKuxABA==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/dexie-react-hooks/LICENSE",
+          "sha256": "cb5e8e7e5f4a3988e1063c142c60dc2df75605f4c46515e776e3aca6df976e14",
+          "bytes": 11325
+        }
+      ]
+    },
+    {
+      "name": "framer-motion",
+      "version": "12.42.2",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-5XY9luDiu0oHfHBjpDthFMh0ES+122w6p/papSJBweMkO8Sn+PW2QaEgRblQBpWFnuvZS5qvarpt/hO2pjGmnw==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/framer-motion/LICENSE.md",
+          "sha256": "5ff46083b88563822b0560dd6221ab89d2f74bc97a52d4c97a75020fd62c6f32",
+          "bytes": 1078
+        }
+      ]
+    },
+    {
+      "name": "html5-qrcode",
+      "version": "2.3.8",
+      "declaredLicense": "Apache-2.0",
+      "integrity": "sha512-jsr4vafJhwoLVEDW3n1KvPnCCXWaQfRng0/EEYk1vNcQGcG/htAdhJX0be8YyqMoSz7+hZvOZSTAepsabiuhiQ==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/html5-qrcode/LICENSE",
+          "sha256": "306bc450da41244fefb92fec6fba30f27afb9d9b0eaa72b96372c23e2338c612",
+          "bytes": 11361
+        }
+      ]
+    },
+    {
+      "name": "lucide-react",
+      "version": "1.23.0",
+      "declaredLicense": "ISC",
+      "integrity": "sha512-38BpJcD0JhFosxHApP/BYsBetLpQFRoTRzEzstM/XCc3jsAG7wqaY1lgVwxiUe3xqYE+lNxo2PkCmYwXWrwwIw==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/lucide-react/LICENSE",
+          "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+          "bytes": 3208
+        }
+      ]
+    },
+    {
+      "name": "motion-dom",
+      "version": "12.42.2",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-5gIMWLp/PycBtJRJWRgjxke5n8dlvkSn2DrYW+tr3XcqAZY1xZh6BJyooJXCM8wdfM7wfMjkBJNLge1CKPUIRA==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/motion-dom/LICENSE.md",
+          "sha256": "1bf0dc3f7727723e5a032ed12164a47cf92c05204cb1a3485f123c24e2833ed1",
+          "bytes": 1100
+        }
+      ]
+    },
+    {
+      "name": "motion-utils",
+      "version": "12.39.0",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-8nadJAJjTtqRkmRF36FoJTrywK9nnFmnPwnSMyxaOCU7GDjN9RTMJIxx9De8ErM+vpPhMccr/6fo5WciyQLnMQ==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/motion-utils/LICENSE.md",
+          "sha256": "1bf0dc3f7727723e5a032ed12164a47cf92c05204cb1a3485f123c24e2833ed1",
+          "bytes": 1100
+        }
+      ]
+    },
+    {
+      "name": "qr-code-styling",
+      "version": "1.9.2",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-RgJaZJ1/RrXJ6N0j7a+pdw3zMBmzZU4VN2dtAZf8ZggCfRB5stEQ3IoDNGaNhYY3nnZKYlYSLl5YkfWN5dPutg==",
+      "scope": "Conservative installed production dependency closure",
+      "texts": [
+        {
+          "path": "node_modules/qr-code-styling/LICENSE",
+          "sha256": "661f8000efeedf1e9ed04e22813776da1f9125219079a3fb86b7060e570db462",
+          "bytes": 1068
+        }
+      ]
+    },
+    {
+      "name": "qrcode-generator",
+      "version": "1.5.2",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-pItrW0Z9HnDBnFmgiNrY1uxRdri32Uh9EjNYLPVC2zZ3ZRIIEqBoDgm4DkvDwNNDHTK7FNkmr8zAa77BYc9xNw==",
+      "scope": "Conservative installed production dependency closure",
+      "texts": []
+    },
+    {
+      "name": "qrcode.react",
+      "version": "4.2.0",
+      "declaredLicense": "ISC",
+      "integrity": "sha512-QpgqWi8rD9DsS9EP3z7BT+5lY5SFhsqGjpgW5DY/i3mK4M9DTBNz3ErMi8BWYEfI3L0d8GIbGmcdFAS1uIRGjA==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/qrcode.react/LICENSE",
+          "sha256": "908a4454d01d77cd6a0ae1eea0bafaa74a2e3befdbc4b7b714de2499a22351ce",
+          "bytes": 877
+        }
+      ]
+    },
+    {
+      "name": "react",
+      "version": "19.2.7",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-HNe9WslTbXmFK8o8cmwgAeJFSBvt1bPdHCVKtaaV+WlAN36mpT4hcRpwbf3fY56ar2oIXzsBpOAiIRHAdY0OlQ==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/react/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+          "bytes": 1088
+        }
+      ]
+    },
+    {
+      "name": "react-dom",
+      "version": "19.2.7",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-t0BRVXvbiE/o20Hfw669rLbMCDWtYZLvmJigy2f0MxsXF+71pxhR3xOkspmsO8h3ZlNzyibAmtCa3l4lYKk6gQ==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/react-dom/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+          "bytes": 1088
+        }
+      ]
+    },
+    {
+      "name": "react-router",
+      "version": "7.18.4",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-PUPQcMhMGRAslLcvtlPz/kmzBEWPhLdgLFrL7pLNepBL6dX0lWj4WD2cUYVgYCuT3jxvghYFg81cDTj44DhetQ==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/react-router/LICENSE.md",
+          "sha256": "77c9ee6a9c5d5782fb0c50b50d101189116314c14f7df0a1b0d385fc96a7ba49",
+          "bytes": 1161
+        }
+      ]
+    },
+    {
+      "name": "react-router-dom",
+      "version": "7.18.4",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-yrfmJHIpDG7taCpqKjT1G5B6q3O2K+RN8/fgNf0lTjCwiPbQ0ei6vXX9ZjQR+7ld8Tr7Z5xmyMnZ8YJrphWQUw==",
+      "scope": "Conservative installed production dependency closure",
+      "texts": [
+        {
+          "path": "node_modules/react-router-dom/LICENSE.md",
+          "sha256": "77c9ee6a9c5d5782fb0c50b50d101189116314c14f7df0a1b0d385fc96a7ba49",
+          "bytes": 1161
+        }
+      ]
+    },
+    {
+      "name": "scheduler",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-eNv+WrVbKu1f3vbYJT/xtiF5syA5HPIMtf9IgY/nKg0sWqzAUEvqY/xm7OcZc/qafLx/iO9FgOmeSAp4v5ti/Q==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/scheduler/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+          "bytes": 1088
+        }
+      ]
+    },
+    {
+      "name": "set-cookie-parser",
+      "version": "2.7.2",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-oeM1lpU/UvhTxw+g3cIfxXHyJRc/uidd3yK1P242gzHds0udQBYzs3y8j4gCCW+ZJ7ad0yctld8RYO+bdurlvw==",
+      "scope": "Conservative installed production dependency closure",
+      "texts": [
+        {
+          "path": "node_modules/set-cookie-parser/LICENSE",
+          "sha256": "c5c6c5183a789d122f267c405f685037efb87e27fcde28ab1dd7378a2d2f5962",
+          "bytes": 1126
+        }
+      ]
+    },
+    {
+      "name": "tslib",
+      "version": "2.8.1",
+      "declaredLicense": "0BSD",
+      "integrity": "sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==",
+      "scope": "Conservative installed production dependency closure",
+      "texts": [
+        {
+          "path": "node_modules/tslib/LICENSE.txt",
+          "sha256": "210b19e543130388c68654b7497e967119ce17145f66ab7d85688fbd70f08751",
+          "bytes": 655
+        }
+      ]
+    },
+    {
+      "name": "workbox-core",
+      "version": "7.4.1",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-DT+vu46eh/2vRsSHTY4Xmc32Z1rr9PRlQUXr1Dx30ZuXRWwOsvZgGgcwxcasubQLQmbTNYZjv44LkBAQ4tT5tQ==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/workbox-core/LICENSE",
+          "sha256": "aee9670e09b75ca8a2a1fe62d545ae38a6797970caf0335628e3a4dd15bc9b6c",
+          "bytes": 1050
+        }
+      ]
+    },
+    {
+      "name": "workbox-precaching",
+      "version": "7.4.1",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-cdr/9qByww7yzEp7zg/qI4ukUrrNjQLgN+ONQRpjy/VqGQXwkgHwr00KksGJK8v0VifwDXBb8a4cWNZH71jn3Q==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/workbox-precaching/LICENSE",
+          "sha256": "aee9670e09b75ca8a2a1fe62d545ae38a6797970caf0335628e3a4dd15bc9b6c",
+          "bytes": 1050
+        }
+      ]
+    },
+    {
+      "name": "workbox-routing",
+      "version": "7.4.1",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-yubJGErZOusuidAenaL5ypfhQOa7urxP/f8E0ws7FPb4039RiWXUWBAyUkmUoOL/BcQGen3h0J8872d51IYxtA==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/workbox-routing/LICENSE",
+          "sha256": "aee9670e09b75ca8a2a1fe62d545ae38a6797970caf0335628e3a4dd15bc9b6c",
+          "bytes": 1050
+        }
+      ]
+    },
+    {
+      "name": "workbox-strategies",
+      "version": "7.4.1",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-GZxpaw9NbmOelj7667uZ2kpk5BFpOGbO4X0qjwh5ls8XQ8C+Lha5LQchTiUzsTFSS+NlUpftYAyOVXvQUrcqOQ==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/workbox-strategies/LICENSE",
+          "sha256": "aee9670e09b75ca8a2a1fe62d545ae38a6797970caf0335628e3a4dd15bc9b6c",
+          "bytes": 1050
+        }
+      ]
+    },
+    {
+      "name": "workbox-window",
+      "version": "7.4.1",
+      "declaredLicense": "MIT",
+      "integrity": "sha512-notZDH2u8VXaqyuD7xaqIfEFi6SRM4SUSd7ewe9PDsVqADuepxX2ZMY3uvuZGxzY5ZOsGC/vD3A/3smFtJt4/A==",
+      "scope": "JavaScript or generated service-worker source map",
+      "texts": [
+        {
+          "path": "node_modules/workbox-window/LICENSE",
+          "sha256": "aee9670e09b75ca8a2a1fe62d545ae38a6797970caf0335628e3a4dd15bc9b6c",
+          "bytes": 1050
+        }
+      ]
+    }
+  ],
+  "embeddedNotices": [
+    {
+      "package": "lucide-react",
+      "source": "node_modules/lucide-react/dist/esm/icons/trash-2.mjs",
+      "sha256": "50e95b36dc48dcc4f7ed4ed619eb5e2d37cd4e78f6829e323a0407c1cb566bd4"
+    },
+    {
+      "package": "qrcode.react",
+      "source": "node_modules/qrcode.react/lib/esm/index.js",
+      "sha256": "ad8a305a4886b099d1f2ed63b385abf8625504d2da061b7595c8f6ff6fe56ddc"
+    },
+    {
+      "package": "qrcode.react",
+      "source": "node_modules/qrcode.react/lib/esm/index.js",
+      "sha256": "4742f2d1bbb0be35bab0294eb0f628e6c32c8060e1824a3cfa76d2447e70ad18"
+    },
+    {
+      "package": "html5-qrcode",
+      "source": "node_modules/html5-qrcode/third_party/zxing-js.umd.js",
+      "sha256": "1140190ff439e229944441f3de22ac1b2f8ed823f9a600bc1191c985119d05d8"
+    },
+    {
+      "package": "html5-qrcode",
+      "source": "node_modules/html5-qrcode/third_party/zxing-js.umd.js",
+      "sha256": "196390d831ad9a3b3fb1c270cdea0ecd7464cc4b34922d9db68d20ca66cfe5a6"
+    },
+    {
+      "package": "html5-qrcode",
+      "source": "node_modules/html5-qrcode/third_party/zxing-js.umd.js",
+      "sha256": "193118a535009a489f155a79bcd898fc63407e61e011194ea6008876f769c76d"
+    },
+    {
+      "package": "html5-qrcode",
+      "source": "node_modules/html5-qrcode/third_party/zxing-js.umd.js",
+      "sha256": "b6f7de06c624e9f616fd0de855bbf980f70adaca56fb06b3c795c4cc4f0db7de"
+    },
+    {
+      "package": "html5-qrcode",
+      "source": "node_modules/html5-qrcode/third_party/zxing-js.umd.js",
+      "sha256": "ff57e271eeb5b44ae1905447ffe5f546f0c75a3f35bf5e90a579cc6bc493198c"
+    },
+    {
+      "package": "html5-qrcode",
+      "source": "node_modules/html5-qrcode/third_party/zxing-js.umd.js",
+      "sha256": "4c43e954a56188c4eb13fa7be045867712f9b2a57072566ce5687435630cfc30"
+    },
+    {
+      "package": "html5-qrcode",
+      "source": "node_modules/html5-qrcode/third_party/zxing-js.umd.js",
+      "sha256": "06d187fc208e1a8d0662cbf0dda0c2db5846eb5e12059308d66f244b172d27c6"
+    },
+    {
+      "package": "html5-qrcode",
+      "source": "node_modules/html5-qrcode/third_party/zxing-js.umd.js",
+      "sha256": "770d07b03967c74d4a982b886c2dbcc0a284a1b596ddb22c0480af9c29520302"
+    },
+    {
+      "package": "html5-qrcode",
+      "source": "node_modules/html5-qrcode/third_party/zxing-js.umd.js",
+      "sha256": "1b41bfb0fa89e64aa627f474dfb6bbf24ec69267256f0509a37f072da4f32481"
+    },
+    {
+      "package": "html5-qrcode",
+      "source": "node_modules/html5-qrcode/third_party/zxing-js.umd.js",
+      "sha256": "c57ba2af22e8e77056dda80d14ac04f87ea2f53e787ebbf21fc90cf53a7bb08f"
+    },
+    {
+      "package": "html5-qrcode",
+      "source": "node_modules/html5-qrcode/third_party/zxing-js.umd.js",
+      "sha256": "9ddfbfc086d466399bd13b2232c0bc61b61c19cd11ac056efcd4c385f486472a"
+    },
+    {
+      "package": "html5-qrcode",
+      "source": "node_modules/html5-qrcode/third_party/zxing-js.umd.js",
+      "sha256": "39bfb51f5fdada93f00688945e3d2769ad56b640a6c4358135f1d9098dbef3ec"
+    },
+    {
+      "package": "html5-qrcode",
+      "source": "node_modules/html5-qrcode/third_party/zxing-js.umd.js",
+      "sha256": "c4905def3915f3475384bbc3285d55ae51c3ccee516da323b15ce337c8c70a5c"
+    },
+    {
+      "package": "react",
+      "source": "node_modules/react/cjs/react.production.js",
+      "sha256": "90eea83eadca9ee07f21d69c4d3e0f5636befedee93d5a1c22410020b8d57fb2"
+    },
+    {
+      "package": "scheduler",
+      "source": "node_modules/scheduler/cjs/scheduler.production.js",
+      "sha256": "1259fe974cb4fccd7b27ba88b46817541f1786b86ae6d463c3ce1a805cc19eda"
+    },
+    {
+      "package": "react-dom",
+      "source": "node_modules/react-dom/cjs/react-dom.production.js",
+      "sha256": "3a03c6e30fda3608e9e50224e4d3d0d859d8eebacbfc0452c9388cba839025f8"
+    },
+    {
+      "package": "react-dom",
+      "source": "node_modules/react-dom/cjs/react-dom-client.production.js",
+      "sha256": "8df43d653f4e427cd91a2261b863f65e21efba119509d0bd8da289016b5bff4e"
+    },
+    {
+      "package": "react-router",
+      "source": "node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs",
+      "sha256": "506496322dd55b22298947c7177921cc1950731be7ea976ad49f37a83d15972d"
+    },
+    {
+      "package": "react",
+      "source": "node_modules/react/cjs/react-jsx-runtime.production.js",
+      "sha256": "f29b5902fdc1d4d28ee16330e88e90dd6ab64f5c77eb3ad8e9e66becbbfdbd4c"
+    },
+    {
+      "package": "workbox-core",
+      "source": "node_modules/workbox-core/_private/timeout.js",
+      "sha256": "2dcaa5fa10c6799415c8c736c89d38d2c9ef48aa4ae8dd0851ac454a276ecd39"
+    },
+    {
+      "package": "workbox-core",
+      "source": "node_modules/workbox-core/_private/executeQuotaErrorCallbacks.js",
+      "sha256": "f1fd4afaa987d19984505ab784b19ecff2fcd24076b3948bee5e0aee6d836921"
+    },
+    {
+      "package": "workbox-routing",
+      "source": "node_modules/workbox-routing/NavigationRoute.js",
+      "sha256": "f1fd4afaa987d19984505ab784b19ecff2fcd24076b3948bee5e0aee6d836921"
+    },
+    {
+      "package": "workbox-routing",
+      "source": "node_modules/workbox-routing/registerRoute.js",
+      "sha256": "e5f0668542af441e45ee78e65ead53c7b84610a6dac8688d49cd8dd293818545"
+    },
+    {
+      "package": "workbox-core",
+      "source": "node_modules/workbox-core/_private/cacheMatchIgnoreParams.js",
+      "sha256": "56eb5a659c7715a0c1627482ca3af1cd3e4335dab793bc1c2f9c66f7d33485b1"
+    },
+    {
+      "package": "workbox-precaching",
+      "source": "node_modules/workbox-precaching/utils/deleteOutdatedCaches.js",
+      "sha256": "f1fd4afaa987d19984505ab784b19ecff2fcd24076b3948bee5e0aee6d836921"
+    },
+    {
+      "package": "workbox-precaching",
+      "source": "node_modules/workbox-precaching/PrecacheRoute.js",
+      "sha256": "e530bbfa9503472fc46df4a33e3662dc3de96abdaf23508780da74e014788ec8"
+    },
+    {
+      "package": "workbox-core",
+      "source": "node_modules/workbox-core/copyResponse.js",
+      "sha256": "e5f0668542af441e45ee78e65ead53c7b84610a6dac8688d49cd8dd293818545"
+    },
+    {
+      "package": "workbox-strategies",
+      "source": "node_modules/workbox-strategies/Strategy.js",
+      "sha256": "e530bbfa9503472fc46df4a33e3662dc3de96abdaf23508780da74e014788ec8"
+    },
+    {
+      "package": "workbox-precaching",
+      "source": "node_modules/workbox-precaching/precache.js",
+      "sha256": "e5f0668542af441e45ee78e65ead53c7b84610a6dac8688d49cd8dd293818545"
+    },
+    {
+      "package": "workbox-precaching",
+      "source": "node_modules/workbox-precaching/addRoute.js",
+      "sha256": "2dcaa5fa10c6799415c8c736c89d38d2c9ef48aa4ae8dd0851ac454a276ecd39"
+    },
+    {
+      "package": "qrcode-generator",
+      "source": "node_modules/qrcode-generator/qrcode.js",
+      "sha256": "5dd48ec8123bc035485bafe2aae1fa960a8a09415889b8241baf5a56961e42ce"
+    }
+  ],
+  "supplementalPublisherTexts": [
+    {
+      "package": "qrcode-generator",
+      "url": "https://github.com/kazuhikoarase/qrcode-generator/blob/master/LICENSE",
+      "blobSha": "150770c0fc2994865ccdbef6662735cc083e780d",
+      "sha256": "3a850fa5f08101db6f40676c2786e10bd2cd5fff7b12ffdf1e0c434d4e49d90c"
+    },
+    {
+      "package": "qrcode.react (embedded Project Nayuki generator)",
+      "url": "https://github.com/nayuki/QR-Code-generator/blob/master/typescript-javascript/qrcodegen.ts",
+      "blobSha": "c4191ac0b5f8a24d87fd9340ceaa2d3b07d0231a",
+      "sha256": "b593293b1407fe60bc8a147f8a7ae3bb1347cc4b25ff88d6ca022a58383bf83b"
+    }
+  ],
+  "absentOptionalPackages": [
+    "@emotion/is-prop-valid"
+  ],
+  "aggregateFiles": [
+    {
+      "path": "LICENSES.txt",
+      "sha256": "2520c31ea9b3e3097361f84c3d5afaaf6a3f589ee2fc44613f7d567285075345"
+    },
+    {
+      "path": "EMBEDDED-NOTICES.txt",
+      "sha256": "67803cc18b135263a9426a9d29cd606e2f4d468a29ec5b1594b5f6165e37f561"
+    }
+  ],
+  "limitations": [
+    "An inventory and retained texts do not establish rights for unrelated application assets or contributions.",
+    "Supplementary complete publisher MIT texts for copyright/license banners retained from locked packages; not an assertion that current publisher code equals bundled historical code."
+  ],
+  "templateAssets": [
+    {
+      "path": "src/assets/react.svg",
+      "sha256": "35ef61ed53b323ae94a16a8ec659b3d0af3880698791133f23b084085ab1c2e5",
+      "bytes": 4126,
+      "publisherUrl": "https://github.com/vitejs/vite/blob/4ae9e14f2c4db0706b2e9d815656e050accbd2bf/packages/create-vite/template-react/src/assets/react.svg",
+      "publisherBlobSha": "6c87de9bb3358469122cc991d5cf578927246184",
+      "releaseTag": "refs/tags/v8.1.1",
+      "commit": "4ae9e14f2c4db0706b2e9d815656e050accbd2bf",
+      "license": {
+        "publisherPackage": "create-vite",
+        "publisherVersion": "9.1.0",
+        "sourceUrl": "https://github.com/vitejs/vite/blob/4ae9e14f2c4db0706b2e9d815656e050accbd2bf/packages/create-vite/LICENSE",
+        "blobSha": "e751674175ae96a029ae4508bb30e38ba3dba4a4",
+        "sha256": "aa9727c8f14a023729e123b470bcd2cf7124a21f6b14a4e86bbbc7f80aaa515b",
+        "retainedIn": "public/third-party/LICENSES.txt",
+        "scope": "Complete create-vite publisher package MIT/upstream terms at the immutable matching template commit. App-owned artwork and dependency terms remain separate."
+      }
+    },
+    {
+      "path": "src/assets/vite.svg",
+      "sha256": "5be21acd42eb7b896e517f4e0f0f11eb5c5d9e54fbbcebe9453f033008fcca6f",
+      "bytes": 8709,
+      "publisherUrl": "https://github.com/vitejs/vite/blob/4ae9e14f2c4db0706b2e9d815656e050accbd2bf/packages/create-vite/template-react/src/assets/vite.svg",
+      "publisherBlobSha": "5101b674df391399da71c767aa5c976426c9dc7a",
+      "releaseTag": "refs/tags/v8.1.1",
+      "commit": "4ae9e14f2c4db0706b2e9d815656e050accbd2bf",
+      "license": {
+        "publisherPackage": "create-vite",
+        "publisherVersion": "9.1.0",
+        "sourceUrl": "https://github.com/vitejs/vite/blob/4ae9e14f2c4db0706b2e9d815656e050accbd2bf/packages/create-vite/LICENSE",
+        "blobSha": "e751674175ae96a029ae4508bb30e38ba3dba4a4",
+        "sha256": "aa9727c8f14a023729e123b470bcd2cf7124a21f6b14a4e86bbbc7f80aaa515b",
+        "retainedIn": "public/third-party/LICENSES.txt",
+        "scope": "Complete create-vite publisher package MIT/upstream terms at the immutable matching template commit. App-owned artwork and dependency terms remain separate."
+      }
+    }
+  ]
+}
